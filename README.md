@@ -131,5 +131,6 @@ This is perfect for showcasing **Python skills**, **problem solving**, and **dat
 ## 👩‍💻 Author
 
 Nabeela Fatima  
-B.Tech (1st Year) — GNITS  
-Rotaract | GDG Club | Women in Arts Volunteer  
+B.Tech (2nd Year) — GNITS  
+ 
+
