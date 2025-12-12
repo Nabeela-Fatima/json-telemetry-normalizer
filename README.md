@@ -1,3 +1,5 @@
+![Project Screenshot](./screenshot.png)
+
 # JSON Telemetry Normalizer
 
 This project converts **two different IoT telemetry JSON formats** into a **single unified format**.  
@@ -133,4 +135,5 @@ This is perfect for showcasing **Python skills**, **problem solving**, and **dat
 Nabeela Fatima  
 B.Tech (2nd Year) — GNITS  
  
+
 
