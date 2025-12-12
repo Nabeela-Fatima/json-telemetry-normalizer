@@ -1,3 +1,4 @@
+![Project Screenshot](screenshot.png)
 
 # JSON Telemetry Normalizer
 
@@ -134,6 +135,7 @@ This is perfect for showcasing **Python skills**, **problem solving**, and **dat
 Nabeela Fatima  
 B.Tech (2nd Year) — GNITS  
  
+
 
 
 
